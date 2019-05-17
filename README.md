@@ -1,0 +1,1 @@
+# stopbuild-maven-plugin
